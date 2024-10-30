@@ -1,0 +1,88 @@
+{
+  "hash": "2209d490",
+  "configHash": "ef6e00c3",
+  "lockfileHash": "d689d7ea",
+  "browserHash": "bc1286c1",
+  "optimized": {
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "e7441f27",
+      "needsInterop": true
+    },
+    "react-router-dom": {
+      "src": "../../node_modules/react-router-dom/dist/index.js",
+      "file": "react-router-dom.js",
+      "fileHash": "a46de45e",
+      "needsInterop": false
+    },
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "1dfefdd1",
+      "needsInterop": true
+    },
+    "react-vertical-timeline-component": {
+      "src": "../../node_modules/react-vertical-timeline-component/dist-es6/index.js",
+      "file": "react-vertical-timeline-component.js",
+      "fileHash": "5688e2b0",
+      "needsInterop": true
+    },
+    "@emailjs/browser": {
+      "src": "../../node_modules/@emailjs/browser/es/index.js",
+      "file": "@emailjs_browser.js",
+      "fileHash": "1cb74a05",
+      "needsInterop": false
+    },
+    "@react-three/fiber": {
+      "src": "../../node_modules/@react-three/fiber/dist/react-three-fiber.esm.js",
+      "file": "@react-three_fiber.js",
+      "fileHash": "6c791f3e",
+      "needsInterop": false
+    },
+    "@react-three/drei": {
+      "src": "../../node_modules/@react-three/drei/index.js",
+      "file": "@react-three_drei.js",
+      "fileHash": "a8ccd17e",
+      "needsInterop": false
+    },
+    "@react-spring/three": {
+      "src": "../../node_modules/@react-spring/three/dist/react-spring-three.esm.js",
+      "file": "@react-spring_three.js",
+      "fileHash": "0c13e724",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "hls-SL4NS5RN": {
+      "file": "hls-SL4NS5RN.js"
+    },
+    "vision_bundle-7IQ2RGA2": {
+      "file": "vision_bundle-7IQ2RGA2.js"
+    },
+    "chunk-CCJR3TD6": {
+      "file": "chunk-CCJR3TD6.js"
+    },
+    "chunk-TEEQGJYS": {
+      "file": "chunk-TEEQGJYS.js"
+    },
+    "chunk-ZIYUGMGG": {
+      "file": "chunk-ZIYUGMGG.js"
+    },
+    "chunk-RZVJAJWH": {
+      "file": "chunk-RZVJAJWH.js"
+    },
+    "chunk-DVSO54EO": {
+      "file": "chunk-DVSO54EO.js"
+    },
+    "chunk-FGWF2Z43": {
+      "file": "chunk-FGWF2Z43.js"
+    },
+    "chunk-65KY755N": {
+      "file": "chunk-65KY755N.js"
+    },
+    "chunk-V4OQ3NZ2": {
+      "file": "chunk-V4OQ3NZ2.js"
+    }
+  }
+}
