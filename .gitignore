@@ -1,0 +1,21 @@
+# Node modules
+node_modules/
+
+# Vite cache
+.vite/
+
+# Build output
+dist/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Netlify and gh-pages cache
+.cache/
+gh-pages/
+
+# Environment files
+.env
+.env.local
