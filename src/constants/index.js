@@ -96,11 +96,24 @@ export const skills = [
 
 export const experiences = [
     {
+        title: "Data Science Co-op",
+        company_name: "Ministry of Public and Business Service Delivery and Procurement",
+        icon: Government,
+        iconBg: "#a2d2ff",
+        date: "Jan 2025 - Present",
+        points: [
+            "Used Python to automate syncing of data contracts with the Data Hub; performed data profiling and identified data quality issues using SQL.",
+            "Designed and developed interactive Power BI dashboards for operational and strategic reporting.",
+            "Created data contracts and comprehensive data dictionaries using the Data Contract CLI for data governance.",
+            "Collaborated via Azure DevOps to streamline workflows and support cross-functional data initiatives.",
+        ],
+    },
+    {
         title: "Service Designer",
         company_name: "Treasury Board Scretariat",
         icon: Government,
         iconBg: "#a2d2ff",
-        date: "Sept 2024 - Present",
+        date: "Sept 2024 - Dec 2024",
         points: [
             "Work closely with teams to align service design strategies with security and transition needs, ensuring compliance and reliability.",
             "Contribute to initiatives that digitize and streamline the OPS Security Screening System, focusing on enhancing efficiency and user experience.",
