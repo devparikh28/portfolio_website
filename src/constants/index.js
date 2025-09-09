@@ -197,7 +197,7 @@ export const projects = [
         iconUrl: AI,
         theme: 'btn-back-red',
         name: 'YUtalent - Full-Stack Web Application',
-        description: 'Building a student-focused freelancing platform using the MERN stack (MongoDB, Express.js, React, Node.js).Developing RESTful APIs to support secure registration, login, and data management. Implementing JWT-based authentication for secure access control and session management. Enhancing user management features to improve platform functionality, performance, and overall user experience.',
+        description: 'Building a student-focused freelancing platform using the MERN stack (MongoDB, Express.js, React, Node.js). Developing RESTful APIs to support secure registration, login, and data management. Implementing JWT-based authentication for secure access control and session management. Enhancing user management features to improve platform functionality, performance, and overall user experience.',
         link: 'https://github.com/devparikh28',
     },
     {
