@@ -96,16 +96,31 @@ export const skills = [
 
 export const experiences = [
     {
+        title: "Data Analyst",
+        company_name: "Ministry of Public and Business Service Delivery and Procurement",
+        icon: Government,
+        iconBg: "#a2d2ff",
+        date: "Aug 2025 - Present",
+        points: [
+            "Developed and executed automated tests for large-scale government data pipelines, ensuring accuracy and reliability.",
+            "Enhanced the data contract synchronization process by building Python scripts and integrating them with Azure DevOps pipelines for continuous deployment.",
+            "Designed and maintained Power BI and Google Analytics reports, enabling actionable insights on operations and digital engagement.",
+            "Created a frontend portal interface for the DAX Query Starter Guide and Copilot Prompt Guide, improving accessibility of the Enterprise Analytics Toolkit.",
+        ],
+    },
+    {
         title: "Data Science Co-op",
         company_name: "Ministry of Public and Business Service Delivery and Procurement",
         icon: Government,
         iconBg: "#a2d2ff",
-        date: "Jan 2025 - Present",
+        date: "Jan 2025 - Aug 2025",
         points: [
-            "Used Python to automate syncing of data contracts with the Data Hub; performed data profiling and identified data quality issues using SQL.",
-            "Designed and developed interactive Power BI dashboards for operational and strategic reporting.",
-            "Created data contracts and comprehensive data dictionaries using the Data Contract CLI for data governance.",
-            "Collaborated via Azure DevOps to streamline workflows and support cross-functional data initiatives.",
+            "Performed data profiling with SQL to detect and address data quality issues in large business datasets.",
+            "Designed and developed interactive Power BI dashboards for operational and strategic reporting to support decision-making.",
+            "Built and maintained data contracts and dictionaries using the Data Contract CLI, strengthening data governance initiatives.",
+            "Conducted quality assurance testing by creating and executing SQL test cases to validate data integrity.",
+            "Collaborated via Azure DevOps to enhance workflows and support cross-functional data projects.",
+
         ],
     },
     {
@@ -178,6 +193,13 @@ export const socialLinks = [
 ];
 
 export const projects = [
+    {
+        iconUrl: AI,
+        theme: 'btn-back-red',
+        name: 'YUtalent - Full-Stack Web Application',
+        description: 'Building a student-focused freelancing platform using the MERN stack (MongoDB, Express.js, React, Node.js).Developing RESTful APIs to support secure registration, login, and data management. Implementing JWT-based authentication for secure access control and session management. Enhancing user management features to improve platform functionality, performance, and overall user experience.',
+        link: 'https://github.com/devparikh28',
+    },
     {
         iconUrl: AI,
         theme: 'btn-back-red',
